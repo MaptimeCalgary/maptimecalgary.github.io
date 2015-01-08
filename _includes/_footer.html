@@ -12,4 +12,4 @@
 </div><!-- /.google-ads -->
 {% endif %}
 
-<span><p>This website is <a href='http://github.com/maptimecalgary/maptimecalgary.github.io/'>open source</a> and you can improve it. Learn more about contributing <a href='https://guides.github.com/activities/forking/'>here</a></span>
+<span><p>This website is <a href='http://github.com/maptimecalgary/maptimecalgary.github.io/'>open source</a> and you can improve it. Edit this page on <a href="{% if page.path %}//github.com/{{ site.github_link }}/blob/master/{{ page.path }}{% else %}//github.com/{{ site.github_link }}{% endif %}" target="_blank">Github</a> or <a href="{% if page.path %}//prose.io/#{{ site.github_link }}/edit/master/{{ page.path }}{% else %}//prose.io/#{{ site.github_link }}{% endif %}" target="_blank">Prose.io</a>. Learn more about contributing <a href='https://guides.github.com/activities/forking/' target="_blank">here</a>.</span>
