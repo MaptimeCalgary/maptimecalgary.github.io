@@ -50,10 +50,13 @@ L.tileLayer(
 {% for marker in page.map.markers %}
   {% if marker.location %}
     L.marker([{{ marker.location | join: ',' }}])
+
     {% if marker.content %}
       .bindPopup("{{ marker.content }}")
     {% endif %}
+
     .addTo(map)
+
     {% if marker.open %}
       .openPopup({{ marker.open }})
     {% endif %}
