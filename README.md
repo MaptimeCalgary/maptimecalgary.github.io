@@ -9,7 +9,7 @@ We've modified the theme to allow for [Leaflet](http://leafletjs.com/) maps to b
 ``` yaml
 ...  # Other metadata
 map:
-  mapboxlayer: alukach.kmafdp8n
+  mapboxlayer: examples.map-i86nkdio
   attribution: Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>
   options:  # Pass through any supported map option: http://leafletjs.com/reference.html#map-options
     center: "[51.04, -114.075]"
