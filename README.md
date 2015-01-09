@@ -10,6 +10,7 @@ We've modified the theme to allow for [Leaflet](http://leafletjs.com/) maps to b
 ...  # Other metadata
 map:
   mapboxlayer: examples.map-i86nkdio
+  # layer: ... #  If you want to add a non-mapbox baselayer
   attribution: Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>
   options:  # Pass through any supported map option: http://leafletjs.com/reference.html#map-options
     center: "[51.04, -114.075]"
