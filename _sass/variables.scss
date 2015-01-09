@@ -2,8 +2,8 @@
 $doc-font-size: 16;
 $doc-line-height: 26;
 $paragraph-indent: false !default;
-$base-font: 'PT Serif', serif;
-$heading-font: 'PT Sans Narrow', sans-serif;
+$base-font: 'Lora', serif;
+$heading-font: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 $alt-font: $base-font;
 
@@ -36,7 +36,7 @@ $linkcolorfocus 	: darken($linkcolorvisited, 10);
 
 // Media Queries
 $micro            : "only screen and (min-width: 30em)";
-$small            : "only screen and (min-width: 37.5em)";
+$small            : "only screen and (min-width: 48em)";
 $medium           : "only screen and (min-width: 48em)";
 $large            : "only screen and (min-width: 62em)";
 $x-large          : "only screen and (min-width: 86.375em)";
