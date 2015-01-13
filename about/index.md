@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About MaptimeCalgary
-tags: 
+tags:
   - about
 modified: null
 comments: false
@@ -37,4 +37,4 @@ MaptimeCalgary is the Calgary branch of the international Maptime community.
   * experts
   * you
 
-For more information on Maptime, take a look at [Lyzi Diamond's](https://twitter.com/lyzidiamond) seminal post ["Why Maptime"](http://lyzidiamond.com/posts/why-maptime/).
+For more information on Maptime, take a look at [Lyzi Diamond's](https://twitter.com/lyzidiamond) seminal post "[Why Maptime](http://lyzidiamond.com/posts/why-maptime/)".

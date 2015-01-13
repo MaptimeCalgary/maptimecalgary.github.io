@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World"
 modified:
-categories:
+categories: posts
 excerpt: "Hello World. MaptimeCalgary is going to map you. Let's get started."
 tags: [hello world]
 image:
@@ -12,10 +12,13 @@ image:
 comments: true
 ---
 
-The time has come to start up a Calgary chapter of the international [Maptime](http://maptime.io) community.  Head on over to the [about page](/about) to get a general sense of what we're hoping to put together.
+We're putting together a Calgary chapter of the international [Maptime](http://maptime.io) community!  You're invited.  Head on over to the [about page](/about) to get a general sense of what we're hoping to form.
 
 Things we currently need are:
 
+- **Members**! This is the most crucial. They can be beginners or experts.
+- **Presenters**! Also, very crucial. Have something you want to show off? Want to host a tutorial for other mappers?
+- **Co-organizers**. Right now, the MaptimeCalgary team is super tiny. Help us grow the meetup and plan events!
 - **A space**. This can be anything, but the following will be helpful:
   - Access to wifi
   - A projector
