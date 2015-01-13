@@ -133,7 +133,7 @@ li {
 	font-size: 1.0rem;
 	line-height: 1.5;
 	code {
-		@include font-rem(16);
+		@include font-rem(14);
 		white-space: nowrap;
 		margin: 0 2px;
 		padding: 0 5px;
