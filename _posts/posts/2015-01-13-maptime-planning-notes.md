@@ -8,6 +8,7 @@ tags: []
 image:
   feature:
 date: 2015-01-13T21:24:25-07:00
+comments: true
 ---
 
 Some notes from our first MaptimeCalgary planning meeting.
