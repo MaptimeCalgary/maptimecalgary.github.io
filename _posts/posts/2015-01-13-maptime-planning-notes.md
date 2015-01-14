@@ -2,7 +2,6 @@
 layout: post
 title: "Maptime Planning Notes"
 modified:
-author: alukach
 categories: posts
 excerpt: Some notes from our first MaptimeCalgary planning meeting.
 tags: []
