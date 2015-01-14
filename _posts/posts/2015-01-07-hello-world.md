@@ -27,4 +27,4 @@ Things we currently need are:
 
 ### Interested? Want to help?
 
-Drop us a line on [Twitter](http://twitter.com/{{ site.owner.twitter }}) or send us an email at `maptimecalgary@gmail.com`. We'd love to hear who you are and what you're hoping to get out of MaptimeCalgary.
+Shoot a tweet to [@{{ site.owner.twitter }}](http://twitter.com/{{ site.owner.twitter }}) or send us an email at <a href="mailto:{{ site.owner.email }}" target="_blank">{{ site.owner.email }}</a>. We'd love to hear who you are and what you're hoping to get out of MaptimeCalgary.
