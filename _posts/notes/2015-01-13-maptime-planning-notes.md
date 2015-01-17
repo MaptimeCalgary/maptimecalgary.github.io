@@ -2,7 +2,7 @@
 layout: post
 title: "Maptime Planning Notes"
 modified:
-categories: posts
+categories: notes
 excerpt: Some notes from our first MaptimeCalgary planning meeting.
 tags: []
 image:
