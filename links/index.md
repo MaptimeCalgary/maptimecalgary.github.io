@@ -20,6 +20,11 @@ published: true
 
 A collection of free/public datasets from the City of Calgary.
 
+### [Calgary Region Open Data](http://www.calgaryregionopendata.ca/)
+> The Calgary Region Open Data catalogue provides free and open access to over 50 datasets from all over the Calgary Region and new datasets are being added on a continual basis. Open data is freely available to everyone in one or more open and accessible formats. 
+
+A collection of free/public datasets from Airdrie, Okotoks, Cochrane, and more.
+
 ### [Natural Earth](http://www.naturalearthdata.com/)
 
 > Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Featuring tightly integrated vector and raster data, with Natural Earth you can make a variety of visually pleasing, well-crafted maps with cartography or GIS software.
