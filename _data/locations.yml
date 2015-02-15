@@ -1,9 +1,9 @@
 # locations
 
-whitehouse:
-  name: The US Whitehouse
-  coordinates: [38.897096, -77.036545]
-  url: http://whitehouse.gov
+assembly:
+  name: Assembly Coworking Space
+  coordinates: [51.052772748990904, -114.09482538700104]
+  url: http://www.assemblycs.com/
   zoom: 18
-  address: 1600 Pennsylvania Avenue Northwest,<br />Washington, DC
+  address: Suite 400<br />119 14th Street NW
   extra: <i>Great bathrooms!</i>
