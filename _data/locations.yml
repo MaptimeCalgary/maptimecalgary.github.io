@@ -4,6 +4,5 @@ assembly:
   name: Assembly Coworking Space
   coordinates: [51.052772748990904, -114.09482538700104]
   url: http://www.assemblycs.com/
-  zoom: 18
+  zoom: 14
   address: Suite 400<br />119 14th Street NW
-  extra: <i>Great bathrooms!</i>
