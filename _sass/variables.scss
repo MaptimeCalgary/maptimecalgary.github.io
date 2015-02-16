@@ -2,7 +2,7 @@
    Sass variables
    ========================================================================== */
 
-/* 
+/*
    Typography
    ========================================================================== */
 
@@ -14,7 +14,7 @@ $heading-font: $base-font;
 $code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 $alt-font: $base-font;
 
-/* 
+/*
    Colors
    ========================================================================== */
 
@@ -29,6 +29,9 @@ $bordercolor    : $basecolor;
 $white          : #fff;
 $black          : #111;
 $accentcolor    : $black;
+
+$logo-color-dark: rgb(0,63,117);
+$logo-color-light: rgb(255,197,0);
 
 /* buttons */
 $primary			: $black;
@@ -58,10 +61,10 @@ $linkcolorhover 	: darken($linkcolor, 10);
 $linkcolorvisited : lighten($linkcolorhover, 20);
 $linkcolorfocus 	: darken($linkcolorvisited, 10);
 
-/* 
+/*
    Breakpoints
    ========================================================================== */
-   
+
 $micro            : "only screen and (min-width: 30em)";
 $small            : "only screen and (min-width: 48em)";
 $medium           : "only screen and (min-width: 48em)";

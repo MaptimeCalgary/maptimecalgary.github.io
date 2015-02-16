@@ -8,7 +8,7 @@ body {
 	color: $text-color;
 }
 
-/* 
+/*
    Header
    ========================================================================== */
 
@@ -195,13 +195,14 @@ $button-size: 1.5rem;
 // When JavaScript is disabled, we show the menu
 .no-js .nav ul {
 	max-height: 30em;
-	overflow: hidden;
+	// overflow: hidden;
 }
 // When JavaScript is enabled, we hide the menu
 .js .nav ul {
 	max-height: 0;
 	overflow: hidden;
 	@media #{$small} {
+		overflow: visible;
 		max-height: 30em;
 	}
 }
@@ -579,7 +580,7 @@ $button-size: 1.5rem;
   li {
   	display: inline-block;
   }
-  $social: 
+  $social:
   (facebook, $facebook-color),
   (flickr, $flickr-color),
   (foursquare, $foursquare-color),
@@ -595,7 +596,7 @@ $button-size: 1.5rem;
   @each $socialnetwork, $color in $social {
     .#{$socialnetwork} {
       background: $color;
-    }    
+    }
   }
   a {
 	  display: block;
@@ -687,7 +688,7 @@ $button-size: 1.5rem;
 	}
 }
 
-/* 
+/*
    Browser upgrade alert
    ========================================================================== */
 
@@ -707,7 +708,7 @@ $button-size: 1.5rem;
 		}
 	}
 }
-/* 
+/*
    Google search form
    ========================================================================== */
 

@@ -1,0 +1,14 @@
+<script>
+$( document ).ready(
+  $.ajax({
+    url: "https://api.meetup.com/2/events?status=upcoming&order=time&limited_events=False&group_urlname=maptimecalgary&desc=false&offset=0&format=json&page=200&fields=&sig_id=25585852&sig=6983306326bca0b81820c4fc16a46e7400305b08",
+    type: "GET",
+    dataType: 'jsonp',
+    jsonp: "callback",
+    success: function( response ) {
+      var next_event = response.results[0];
+      $('#next-meetup').attr('href', next_event.event_url);
+    }
+  })
+)
+</script>

@@ -1,18 +1,34 @@
-/* 
+/*
    Rules
    ========================================================================== */
 
-hr { 
-	display: block; 
-	margin: 1em 0; 
+hr {
+	display: block;
+	margin: 1em 0;
 	padding: 0;
-	height: 1px; 
-	border: 0; 
+	height: 1px;
+	border: 0;
 	border-top: 1px solid #ccc;
-	border-bottom: 1px solid #fff; 
+	border-bottom: 1px solid #fff;
 }
 
-/* 
+#next-meetup {
+	background-color: $logo-color-dark;
+	color: #FFF;
+	text-align: center;
+	@media #{$small} {
+		padding: 15px 25px;
+		margin-bottom: -30px;
+		float: right;
+		position: relative;
+		top: -15px;
+		right: 15px;
+	}
+}
+#next-meetup:hover {
+	color: $logo-color-light;
+}
+/*
    Figures and images
    ========================================================================== */
 
@@ -23,13 +39,13 @@ figure {
 article img {
 	max-width: 100%;
 	height: auto;
-	border-width: 0; 
-	vertical-align: middle; 
-	-ms-interpolation-mode: bicubic; 
+	border-width: 0;
+	vertical-align: middle;
+	-ms-interpolation-mode: bicubic;
 }
 
 svg:not(:root) {
-		overflow: hidden; 
+		overflow: hidden;
 }
 
 /* 2 images of equal dimensions in a row */
@@ -62,7 +78,7 @@ svg:not(:root) {
 	}
 }
 
-/* 
+/*
    Buttons
    ========================================================================== */
 
@@ -151,7 +167,7 @@ svg:not(:root) {
   }
 }
 
-/* 
+/*
    Wells
    ========================================================================== */
 
