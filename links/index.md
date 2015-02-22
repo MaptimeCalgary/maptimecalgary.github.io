@@ -30,3 +30,7 @@ A collection of free/public datasets from Airdrie, Okotoks, Cochrane, and more.
 > Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Featuring tightly integrated vector and raster data, with Natural Earth you can make a variety of visually pleasing, well-crafted maps with cartography or GIS software.
 
 Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales.
+
+### [University of Calgary's Spatial and Numeric Data Services](http://library.ucalgary.ca/sands)
+
+> Spatial and Numeric Data Services provides access to cartographic materials, GIS and statistical data and software. We can assist with finding resources both within and outside our collection.
