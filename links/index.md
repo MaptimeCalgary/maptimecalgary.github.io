@@ -35,6 +35,10 @@ Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales.
 
 > Spatial and Numeric Data Services provides access to cartographic materials, GIS and statistical data and software. We can assist with finding resources both within and outside our collection.
 
+### [GeoGratis](http://geogratis.cgdi.gc.ca/geogratis/Home)
+
+> Maps and data from across Canada - topography, agriculture, geology, etc. Many different collections and a basic search tool to explore spatially.
+
 ## Design
 
 ### [SnazzyMaps](https://snazzymaps.com)
