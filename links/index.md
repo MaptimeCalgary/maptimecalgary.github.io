@@ -34,3 +34,7 @@ Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales.
 ### [University of Calgary's Spatial and Numeric Data Services](http://library.ucalgary.ca/sands)
 
 > Spatial and Numeric Data Services provides access to cartographic materials, GIS and statistical data and software. We can assist with finding resources both within and outside our collection.
+
+### [SnazzyMaps](https://snazzymaps.com)
+
+> Snazzy Maps is a repository of different styles for Google Maps aimed towards web designers and developers.
