@@ -19,7 +19,7 @@ To help us get an idea of who's interested, please RSVP and then either send us 
 
 ---
 
-**_EDIT:_**
+**_FOLLOWUP:_**
 
 Links to this meetup's presentations / resources:
 
