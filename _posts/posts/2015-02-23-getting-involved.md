@@ -10,7 +10,7 @@ image:
 date: 2015-02-23T22:15:29-07:00
 ---
 
-At [tonight's meetup](/posts/2015/02/08/first-meetup/), we covered a number of ways that anyone can get involved with the way that MaptimeCalgary.  To recap:
+At [tonight's meetup](/posts/2015/02/08/first-meetup/), we covered a number of ways that anyone can get involved with the way that MaptimeCalgary.  To recap, Membership is simple: **just show up**. For anything else:
 
 - **Communication**
   - To communicate with MaptimeCalgary members, **join the [GoogleGroup](https://groups.google.com/forum/#!forum/maptimecalgary)**
