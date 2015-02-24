@@ -37,4 +37,4 @@ Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales.
 
 ### [SnazzyMaps](https://snazzymaps.com)
 
-> Snazzy Maps is a repository of different styles for Google Maps aimed towards web designers and developers.
+> Snazzy Maps is a repository of different styles for Google Maps aimed towards web designers and developers. This can be used in addition to [Google Maps API Styled Map Wizard](http://gmaps-samples-v3.googlecode.com/svn/trunk/styledmaps/wizard/index.html).
