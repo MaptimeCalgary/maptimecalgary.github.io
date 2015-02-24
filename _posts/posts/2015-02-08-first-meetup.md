@@ -26,3 +26,4 @@ Links to this meetup's presentations / resources:
 - [Meta MaptimeCalgary](/presentation-meta-maptime)
 - [Making your First Map with Leaflet](http://lyzidiamond.com/nacis-talk/#0) _(c/o [Lyzi Diamond](http://lyzidiamond.com/))_
 - [Leaflet Quick Start Guide](http://leafletjs.com/examples/quick-start.html)
+- [Recap of Getting Involved](/posts/2015/02/23/getting-involved/)
