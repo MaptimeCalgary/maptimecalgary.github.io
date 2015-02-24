@@ -16,3 +16,13 @@ This meetup is going to be split between two topics:
 **Introduction to WebMapping**: A general lay-of-the-land regarding the current (and past) state of putting maps online.
 
 To help us get an idea of who's interested, please RSVP and then either send us an email at calgary@maptime.io or shoot a tweet to @MaptimeCalgary letting us know who you are and what you're hoping to get out of MaptimeCalgary.
+
+---
+
+**_EDIT:_**
+
+Links to this meetup's presentations / resources:
+
+- [Meta MaptimeCalgary](/presentation-meta-maptime)
+- [Making your First Map with Leaflet](http://lyzidiamond.com/nacis-talk/#0) _(c/o [Lyzi Diamond](http://lyzidiamond.com/))_
+- [Leaflet Quick Start Guide](http://leafletjs.com/examples/quick-start.html)
