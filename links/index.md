@@ -37,7 +37,7 @@ Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales.
 
 ### [GeoGratis](http://geogratis.cgdi.gc.ca/geogratis/Home)
 
-> Maps and data from across Canada - topography, agriculture, geology, etc. Many different collections and a basic search tool to explore spatially.
+> Maps and data from across Canada - topography, agriculture, geology, etc. Many different collections and a basic search tool to explore spatially. Including a REST API for requesting data and collection information.
 
 ## Design
 
