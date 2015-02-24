@@ -35,6 +35,8 @@ Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales.
 
 > Spatial and Numeric Data Services provides access to cartographic materials, GIS and statistical data and software. We can assist with finding resources both within and outside our collection.
 
+## Design
+
 ### [SnazzyMaps](https://snazzymaps.com)
 
 > Snazzy Maps is a repository of different styles for Google Maps aimed towards web designers and developers. This can be used in addition to [Google Maps API Styled Map Wizard](http://gmaps-samples-v3.googlecode.com/svn/trunk/styledmaps/wizard/index.html).
