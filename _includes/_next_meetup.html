@@ -7,10 +7,10 @@ $( document ).ready(
     jsonp: "callback",
     success: function( response ) {
       var next_event = response.results[0];
-      var date = new moment(next_event.time).format('ddd MMM Do, h:mma');
-      console.log(next_event);
-
-      $('#next-meetup').text('Next Meetup: ' + date).attr('href', next_event.event_url);
+      if (next_event) {
+        var date = new moment(next_event.time).format('ddd MMM Do, h:mma');
+        $('#next-meetup').text('Next Meetup: ' + date).attr('href', next_event.event_url);
+      }
     }
   })
 )
