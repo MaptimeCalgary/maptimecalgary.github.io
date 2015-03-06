@@ -8,6 +8,8 @@ comments: false
 published: true
 ---
 
+{% include _toc.html %}
+
 ## General
 
 ### [MaptimeHQ](http://maptime.io)
@@ -21,7 +23,7 @@ published: true
 A collection of free/public datasets from the City of Calgary.
 
 ### [Calgary Region Open Data](http://www.calgaryregionopendata.ca/)
-> The Calgary Region Open Data catalogue provides free and open access to over 50 datasets from all over the Calgary Region and new datasets are being added on a continual basis. Open data is freely available to everyone in one or more open and accessible formats. 
+> The Calgary Region Open Data catalogue provides free and open access to over 50 datasets from all over the Calgary Region and new datasets are being added on a continual basis. Open data is freely available to everyone in one or more open and accessible formats.
 
 A collection of free/public datasets from Airdrie, Okotoks, Cochrane, and more.
 

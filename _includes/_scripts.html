@@ -29,3 +29,11 @@
 {% endif %}
 
 {% include _next_meetup.html %}
+
+<script>
+// Remove odd bug with nested <a> tags in TOC
+$('#markdown-toc li a + a').each(function() {
+  $(this).prev().text(this.text);
+  this.remove();
+});
+</script>
