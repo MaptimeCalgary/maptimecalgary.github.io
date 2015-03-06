@@ -18,10 +18,8 @@ gems:
 
 kramdown:
   auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
   use_coderay: false
+  auto_id_stripping: true
 
 
 # Site owner
