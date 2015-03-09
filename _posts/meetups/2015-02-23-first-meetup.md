@@ -18,7 +18,7 @@ This meetup is going to be split between two topics:
 
 **Introduction to WebMapping**: A general lay-of-the-land regarding the current (and past) state of putting maps online.
 
-To help us get an idea of who's interested, please RSVP and then either send us an email at calgary@maptime.io or shoot a tweet to @MaptimeCalgary letting us know who you are and what you're hoping to get out of MaptimeCalgary.
+To help us get an idea of who's interested, please RSVP and then either send us an email at calgary@maptime.io or shoot a tweet to [@{{ site.owner.twitter }}](http://twitter.com/{{ site.owner.twitter }}) letting us know who you are and what you're hoping to get out of MaptimeCalgary.
 
 ---
 
