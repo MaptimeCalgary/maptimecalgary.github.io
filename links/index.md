@@ -48,6 +48,7 @@ A collection of free/public datasets from Airdrie, Okotoks, Cochrane, and more.
 
 > Spatial and Numeric Data Services provides access to cartographic materials, GIS and statistical data and software. We can assist with finding resources both within and outside our collection.
 
+Their website states that "[their] map and air photo collection is available to the public".  They house both licensed and [open data](http://libguides.ucalgary.ca/content.php?pid=349030&sid=2883181).
 
 
 ## National Data
