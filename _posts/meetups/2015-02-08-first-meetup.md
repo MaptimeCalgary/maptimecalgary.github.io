@@ -7,7 +7,9 @@ excerpt: "Come get your map on at our inaugural meetup."
 tags: [meetup]
 comments: true
 location: assembly
-redirect_from: /posts/2015/02/23/first-meetup/
+redirect_from:
+  - /posts/2015/02/08/first-meetup/
+  - /meetups/2015/02/23/first-meetup/
 meetup_date: 2015-02-23T18:15:00-06:00
 ---
 
