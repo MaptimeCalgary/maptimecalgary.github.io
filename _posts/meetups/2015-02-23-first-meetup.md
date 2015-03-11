@@ -8,8 +8,7 @@ tags: [meetup]
 comments: true
 location: assembly
 redirect_from: /posts/2015/02/08/first-meetup/
-
-
+date: 2015-02-23T18:15:00-06:00
 ---
 
 This meetup is going to be split between two topics:
