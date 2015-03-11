@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Webmapping: Part Deux"
+title: "Getting Your First Webmap Online with Github"
 modified:
 categories: meetups
-excerpt:
-tags: []
+excerpt: "Webmapping: Part Deux"
+tags: [meetup]
+comments: true
 location: assembly
+meetup_date: 2015-03-23T18:15:00-06:00
 ---
 
 **Topic 1: Getting Your First Webmap Online with Github**
