@@ -43,6 +43,9 @@
   </div>
   <article class="post">
     <div class="headline-wrap">
+      {% if page.meetup_date %}
+        <div class="meetup-date">Meetup Date: {{ page.meetup_date | date: "%I:%M%p, %A, %B %d, %Y" }}</div>
+      {% endif %}
       {% if page.link %}
         <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
       {% else %}
