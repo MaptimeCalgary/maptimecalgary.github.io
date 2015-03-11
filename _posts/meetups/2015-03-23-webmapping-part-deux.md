@@ -6,7 +6,6 @@ categories: meetups
 excerpt:
 tags: []
 location: assembly
-date: 2015-03-23T18:15:00-06:00
 ---
 
 **Topic 1: Getting Your First Webmap Online with Github**
