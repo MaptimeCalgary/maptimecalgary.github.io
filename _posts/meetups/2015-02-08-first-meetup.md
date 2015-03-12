@@ -10,7 +10,8 @@ location: assembly
 redirect_from:
   - /posts/2015/02/08/first-meetup/
   - /meetups/2015/02/23/first-meetup/
-meetup_date: 2015-02-23T18:15:00-06:00
+#meetup_date: 2015-02-23T18:15:00-06:00
+meetup_date: 2015-02-23 18:15:00
 ---
 
 This meetup is going to be split between two topics:
