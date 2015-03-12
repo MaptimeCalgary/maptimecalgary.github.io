@@ -24,6 +24,6 @@ Please come prepared with the following:
 
 **Topic 2: ?**
 
-Head over to the proposed topics to vote on a topic OR propose your own topic!
+Head over to the [proposed topics](https://github.com/MaptimeCalgary/maptimecalgary.github.io/labels/presentation%20topic%20suggestion) to vote on a topic OR propose your own topic!
 
 **Pizza will be provided for free by our friends at [CartoDB](http://cartodb.com/)!** (please [RSVP](http://www.meetup.com/MaptimeCalgary/events/220964415/) to help us better predict turnout)
