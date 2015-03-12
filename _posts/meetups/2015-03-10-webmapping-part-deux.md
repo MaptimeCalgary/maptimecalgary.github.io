@@ -7,7 +7,7 @@ excerpt: "Webmapping: Part Deux"
 tags: [meetup]
 comments: true
 location: assembly
-meetup_date: 2015-03-23T18:15:00-06:00
+meetup_date: 2015-03-23 18:15:00
 ---
 
 **Topic 1: Getting Your First Webmap Online with Github**
