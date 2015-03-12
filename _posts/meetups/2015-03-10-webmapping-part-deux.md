@@ -16,7 +16,7 @@ Building off of [our last meetup](/meetups/2015/02/23/first-meetup/) (where we c
 
 Please come prepared with the following:
 
-* A Github account
+* A [Github account](https://github.com/join)
 * A laptop (Windows, Mac, or Linux), set up with:
   * An installed text-editor (I recommend [atom.io](http://atom.io). Other options include SublimeText3, TextMate, TextWrangler, and Dreamweaver. Just about anything else that isn't MicrosoftWord is a valid choice.)
   * Have git installed (the simplest way to do this is by installing GUI client. Github offers one for [windows](https://windows.github.com/) and [mac](https://mac.github.com/). [SourceTree](http://www.sourcetreeapp.com/) from Bitbucket is also a good option.)
