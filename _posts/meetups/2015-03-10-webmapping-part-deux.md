@@ -3,7 +3,7 @@ layout: post
 title: "Getting Your First Webmap Online with Github"
 modified:
 categories: meetups
-excerpt: "Webmapping: Part Deux"
+excerpt: "Up in the interwebs"
 tags: [meetup]
 comments: true
 location: assembly
