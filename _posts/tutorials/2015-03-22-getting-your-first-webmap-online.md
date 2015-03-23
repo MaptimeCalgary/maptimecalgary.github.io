@@ -3,7 +3,7 @@ layout: post
 title: "Putting Your First Web Map Online"
 modified:
 categories: tutorials
-excerpt: "Webmapping: Part Deux"
+excerpt: "Getting your map up on the interwebs"
 tags: [github, leaflet.js]
 comments: true
 author: alukach
@@ -12,7 +12,7 @@ meetup_date: 2015-03-23T18:15:00-06:00
 
 {% include _toc.html %}
 
-__Note: This tutorial is currently a work in progess.__
+_Note: This tutorial is currently a work in progess._
 
 ## What are we doing?
 
