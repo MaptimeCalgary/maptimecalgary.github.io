@@ -212,6 +212,8 @@ Example:
 }
 {% endhighlight %}
 
+Learn more about GeoJSON from [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html)
+
 ### KML
 
 From [Google's documentation on Keyhole Markup Language](https://developers.google.com/kml/documentation/kml_tut):
