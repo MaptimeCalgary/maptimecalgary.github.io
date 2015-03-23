@@ -239,9 +239,11 @@ From [Mike Bostock's Topojson repo](https://github.com/mbostock/topojson):
 
 > TopoJSON is an extension of GeoJSON that encodes topology. Rather than representing geometries discretely, geometries in TopoJSON files are stitched together from shared line segments called arcs. TopoJSON eliminates redundancy, offering much more compact representations of geometry than with GeoJSON; typical TopoJSON files are 80% smaller than their GeoJSON equivalents. In addition, TopoJSON facilitates applications that use topology, such as topology-preserving shape simplification, automatic map coloring, and cartograms.
 
-Example:
+Example of [U.S. Counties TopoJSON](http://bl.ocks.org/mbostock/4122298):
 
 <iframe src="http://bl.ocks.org/mbostock/raw/4122298/" width="100%"></iframe>
+
+See more in the [TopoJSON Gallery](https://github.com/mbostock/topojson/wiki/Gallery).
 
 [leaflet.js]: http://leafletjs.com/
 [stamen design]: http://stamen.com
