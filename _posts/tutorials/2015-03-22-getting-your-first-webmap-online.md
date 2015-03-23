@@ -9,6 +9,11 @@ comments: true
 author: alukach
 meetup_date: 2015-03-23T18:15:00-06:00
 ---
+
+{% include _toc.html %}
+
+__Note: This tutorial is currently a work in progess.__
+
 ## What are we doing?
 
 ### Goal
@@ -51,7 +56,9 @@ When working with code, it becomes important to save revisions of your projects.
 
 Github also offers a super-helpful feature: [Github Pages]. For any public Github repo, Github will host the content of the repo's `gh-pages` branch at `http://your_github_username.github.io/repo_name`. This allows us to host our web map for free while enjoying the version control that Git offers.
 
-## Data!
+## Data
+
+We'll be wanting to put some data onto our map. How should we format the data?
 
 ### JSON
 
