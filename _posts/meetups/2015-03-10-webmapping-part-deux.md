@@ -7,7 +7,7 @@ excerpt: "Up in the interwebs"
 tags: [meetup]
 comments: true
 location: assembly
-meetup_date: 2015-03-23T18:15:00-06:00
+meetup_date: 2015-03-23 18:15:00
 ---
 
 **Topic 1: Getting Your First Webmap Online with Github**
@@ -16,7 +16,7 @@ Building off of [our last meetup](/meetups/2015/02/23/first-meetup/) (where we c
 
 Please come prepared with the following:
 
-* A Github account
+* A [Github account](https://github.com/join)
 * A laptop (Windows, Mac, or Linux), set up with:
   * An installed text-editor (I recommend [atom.io](http://atom.io). Other options include SublimeText3, TextMate, TextWrangler, and Dreamweaver. Just about anything else that isn't MicrosoftWord is a valid choice.)
   * Have git installed (the simplest way to do this is by installing GUI client. Github offers one for [windows](https://windows.github.com/) and [mac](https://mac.github.com/). [SourceTree](http://www.sourcetreeapp.com/) from Bitbucket is also a good option.)
@@ -24,6 +24,6 @@ Please come prepared with the following:
 
 **Topic 2: ?**
 
-Head over to the proposed topics to vote on a topic OR propose your own topic!
+Head over to the [proposed topics](https://github.com/MaptimeCalgary/maptimecalgary.github.io/labels/presentation%20topic%20suggestion) to vote on a topic OR propose your own topic!
 
 **Pizza will be provided for free by our friends at [CartoDB](http://cartodb.com/)!** (please [RSVP](http://www.meetup.com/MaptimeCalgary/events/220964415/) to help us better predict turnout)
