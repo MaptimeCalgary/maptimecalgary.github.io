@@ -74,3 +74,33 @@ Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales.
 ### [SnazzyMaps](https://snazzymaps.com)
 
 > Snazzy Maps is a repository of different styles for Google Maps aimed towards web designers and developers. This can be used in addition to [Google Maps API Styled Map Wizard](http://gmaps-samples-v3.googlecode.com/svn/trunk/styledmaps/wizard/index.html).
+
+
+
+## QGIS Plugins
+
+Useful plugins to extend the functionality of QGIS. You can search for them by going to Plugins > Manage and Install Plugins, or download them from the URLs below. The complete list can be found [here](https://plugins.qgis.org/plugins/most_downloaded).
+
+### [MMQGIS](https://plugins.qgis.org/plugins/mmqgis)
+
+> MMQGIS is a set of Python plugins for manipulating vector map layers in Quantum GIS: CSV input/output/join, Geocoding, Geometry Conversion, Buffering, Hub Analysis, Simplification Column Modification, Color Ramps, and Simple Animation.
+
+### [Table Manager](https://plugins.qgis.org/plugins/tablemanager)
+
+> Manages the attribute table structure.
+
+### [OpenLayers](https://plugins.qgis.org/plugins/openlayers_plugin)
+
+> Add OpenStreetMap, Google Maps, Bing Maps, and MapQuest layers.
+
+### [TileLayers](https://plugins.qgis.org/plugins/TileLayerPlugin)
+
+> TileLayerPlugin is a plugin to add tiled maps on your map canvas.
+
+### [Statist](https://plugins.qgis.org/plugins/statist)
+
+> Calculate and show statistics for a field.
+
+### [go2streetview](https://plugins.qgis.org/plugins/go2streetview)
+
+> The plugin allows to get a window with Google Street View or Bing Bird's Eye clicking and dragging the cursor on map to set location and direction of the desired view.
